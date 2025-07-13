@@ -1,23 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <link rel="icon" href="https://youtu.be/I69YtEjDouQ typege/x-icon">
-        <meta name="keywords" content="HACKED BY SaaD">
-        <meta name="description" content="HACKED BY SaaD">
+        <link rel="icon" href="https://media.tenor.com/zMDzJCiNrxcAAAAi/laughing-a-90.gif">
+        <meta name="keywords" content="HACKED BY F A N C Y">
+        <meta name="description" content="HACKED BY F A N C Y">
         <meta name="author" content="Opps!">
         <meta name="theme-color" content="#343a40"/>
-        <title>Hacked by SaaD </title>
-        <link href="https://fonts.googleapis.com/css?family=Kelly+Slab" rel="stylesheet" type="text/css">
+        <title>Hacked by F A N C Y </title>
+        <link href="https://fonts.googleapis.com/css?family=F A N C Y+Slab" rel="stylesheet" type="text/css">
         <link rel="stylesheet" href="https://rawcdn.githack.com/nako48/shiraookaaaa/f37b3bb82ba199ac8df3a394d8652e56872935a9/style-css.css">
         <div class="glitch-wrapper">
             <style>
                 body {
                     color: #FFFFFF;
-                    font-family: "Kelly Slab", sans-serif;
+                    font-family: "fancy Slab", sans-serif;
                     font-weight: 60;
                     height: 80vh;
                     margin: 0;
-                  background: url('https://c.tenor.com/f-sxmZ-Qs3kAAAAd/tenor.gif') no-repeat center center fixed;
+                  background: url('https://media1.tenor.com/m/XE7B7EtORIAAAAAd/hackers-hack-the-planet.gif') no-repeat center center fixed;
                  }
 
                 .hmm {
@@ -50,18 +50,18 @@
     <body>
         <div class="Fucked">
             <div class="iya">
-                <img src="" alt="SIXENN" width="400" height="400">
+                <img src="" alt="so ezz hmm ? " width="400" height="400">
                 <br>
-                <div class="glitch" data-text="HACKED BY SaaD">
+                <div class="glitch" data-text="HACKED BY F A N C Y">
                     <font color="white" face="4">
                         <font color="red">
-                            HACKED BY SaaD<font color="white"></font>
+                            HACKED BY F A N C Y<font color="white"></font>
                         </font>
                     </font>
 </font></font></div><br>
 <br>
 <font size="19">
-    <font color="white" size="6"<font>Discord.gg/Bab<br>
+    <font color="white" size="6"<font>Discord.gg/jbm<br>
     <br>
     <br/>
     <html>
@@ -118,7 +118,7 @@
                          <br>
                           <audio autoplay="autoplay" controls="controls"
 
-src="https://d.top4top.io/m_335343q1s1.mp3" type="audio/mpeg"></audio>
+src="https://cdn.discordapp.com/attachments/1261032466773446777/1374194339101544468/snow.mp3?ex=68750375&is=6873b1f5&hm=cd9b86991fe2046d53c7e6117d9e0bf35246d544b80b46555c04f7cbb1c02bbd&" type="audio/mpeg"></audio>
 
 <div class=" mek "> <h5 class=" text-center text-white mb-3 "><hr><center><br></font><font class=" text-center text-white mb-3 " color=" red " size=" 2 "></div></body></html></B></div></ul></font></div></p></h5></div></b></font></ul>
 </head></html>
@@ -136,4 +136,3 @@ src="https://d.top4top.io/m_335343q1s1.mp3" type="audio/mpeg"></audio>
 <script type=" text/javascript ">var imgUrlLightning = " https://i.ibb.co/YyYnZ4F/Gambar-Animasi-Petir-Bergerak-Wallpaper-Kilat-Merah-Luar-Biasa.gif "; document.write("<style>img.bg{z-index:-1;min-height: 100%;min-width: 1024px;width: 100%;height: auto;position: fixed;top: 0;left: 0;}@media screen and (max-width: 1024px){img.bg{left: 50%;margin-left: -512px;}}</style>
                                 <img src="" +imgUrlLightning+"" class="bg"/>");
 </script>-
-
